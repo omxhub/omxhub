@@ -1,6 +1,6 @@
 # Hi, I'm Omar 🪽
 
-Founder of **[OMX](https://omxhub.com)**, based in Madinah, Saudi Arabia.
+Founder of **[OMX](https://omxhub.com)**, based in Madinah.
 I build AI-powered tools and automations, together with AI agents, that make everyday life and small businesses easier.
 
 Aviation background, airport coordinator by day, and I've been building PCs since 2009.
